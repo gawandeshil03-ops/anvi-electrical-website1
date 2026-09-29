@@ -1,0 +1,13 @@
+{
+  "name": "Anvi Electrical Enterprises",
+  "short_name": "Anvi Electrical",
+  "description": "Solar energy solutions from Anvi Electrical Enterprises, Chandrapur.",
+  "lang": "en-IN",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f4",
+  "theme_color": "#2f7d4a",
+  "icons": [
+    {"src":"assets/images/favicon.svg","sizes":"any","type":"image/svg+xml"}
+  ]
+}
